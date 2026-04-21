@@ -1,0 +1,7 @@
+{
+    "primary":   "#FF0000",
+    "secondary": "#222222",
+    "text":      "#FFFFFF",
+    "hover":     "#CC0000",
+    "selected":  "#990000"
+}
